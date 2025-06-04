@@ -15,12 +15,13 @@ A estrutura do sistema conta com:
 
 ## 📁 Estrutura do Projeto
 
- -Produto.java
- -Livro.java
- -VideoGame.java
- -Main.java
+ Produto.java
+ Livro.java
+ VideoGame.java
+ Main.java
 
-##🧠 Conceitos Aplicados
+## 🧠 Conceitos Aplicados
+
 Herança
 Sobrescrita de métodos
 Reutilização de código com super
